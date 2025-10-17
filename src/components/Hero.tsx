@@ -8,7 +8,7 @@ export default function Hero() {
         안녕하세요, 저는 박용담입니다 👋
       </h1>
       <p className="text-xl text-gray-600 max-w-2xl mb-8">
-        사용자 중심의 웹 경험을 만드는 것을 좋아하는 웹 개발자입니다.
+        취약점을 찾고 침투테스트를 공부하는 학생입니다.
       </p>
       <a
         href="#projects"

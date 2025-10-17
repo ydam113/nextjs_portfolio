@@ -1,4 +1,4 @@
-import { FaGithub, FaEnvelope } from 'react-icons/fa' // 아이콘 가져오기
+import { FaGithub, FaEnvelope } from 'react-icons/fa'
 
 export default function Contact() {
   return (
