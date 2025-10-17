@@ -3,7 +3,7 @@ import SkillCard from './SkillCard'
 
 export default function Skills() {
   return (
-    <section id="skills" className="min-h-screen bg-gray-100 py-20 px-8">
+    <section id="skills" className="bg-gray-100 py-20 px-8">
       <div className="container mx-auto">
         <h2 className="text-4xl font-bold text-center mb-12">My Skills</h2>
 

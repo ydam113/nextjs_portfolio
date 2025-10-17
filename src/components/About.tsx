@@ -1,6 +1,6 @@
 export default function About() {
   return (
-    <section id="about" className="py-50 bg-gray-100 p-8">
+    <section id="about" className="py-20 bg-gray-100 p-8">
       <h2 className="text-3xl font-bold text-center">About Me</h2>
       <p className="mt-4 text-center max-w-2xl mx-auto">
         안녕하세요! 저는 정보보안에 대한 열정을 가진 학생입니다.
