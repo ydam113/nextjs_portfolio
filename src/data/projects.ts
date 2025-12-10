@@ -27,5 +27,13 @@ export const projectsData: Project[] = [
     githubUrl: 'https://github.com/ydam113/Webteam-FINAL-main',
     liveUrl: 'https://webteam-final-main.vercel.app/',
   },
-  // 여기에 다른 프로젝트들을 계속 추가하면 됩니다.
+  {
+    title: '편의점 통합 관리 시스템',
+    description:
+      '효율적인 편의점 재고 및 매장 관리를 위한 시스템입니다. React와 nodejs, nextjs를 활용했습니다.',
+    image: '/images/image.png',
+    tags: ['nodejs', 'nextjs', 'React', 'Vercel'],
+    githubUrl: 'https://github.com/ydam113/maket',
+    liveUrl: 'https://convenience-store-system-one.vercel.app/owner/staff',
+  },
 ]
